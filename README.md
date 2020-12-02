@@ -5,7 +5,7 @@ This repository is meant to save projects and exercises on basic programming to 
 If you want to see all the information about my github profile, please visit: 
 https://github.com/chicken-developer
 
-# Projects and exercises litst:
+# Projects and exercises list:
 ## Basic OOP with C#: 
 https://github.com/chicken-developer/vtcacademy-csharp-advanced
 
